@@ -3,10 +3,13 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_map<int,int>um;
         for(int i:nums){
-            if(um[i]>=1)
-               return true;
-               um[i]++;
+            if(um[i]>=1){
+                return true;
+            }
+            else{
+                um[i]++;
+            }
         }
-            return false;
+        return false;
     }
 };
