@@ -1,18 +1,18 @@
 class Solution {
 public:
-    vector<int> plusOne(vector<int>& digits) {
-        int n= digits.size()-1;
-        for(int i=n;i>=0;--i){
-            if(digits[i]==9){
-                digits[i]=0;
-            }
-            else{
-                digits[i]+=1;
-            return digits;
-            }
-        }
-        digits.push_back(0);
-        digits[0]=1;
-        return digits;
+    vector<int> plusOne(vector<int>& nums) {
+       int n= nums.size()-1;
+       for(int i=n;i>=0;--i){
+           if(nums[i]==9){
+               nums[i]=0;
+           }
+           else{
+               nums[i]+=1;
+               return nums;
+           }
+       }
+       nums.push_back(0);
+       nums[0]=1;
+       return nums; 
     }
 };
