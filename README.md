@@ -27,4 +27,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yash12patre/Leetcode-Main/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Yash12patre/Leetcode-Main/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Yash12patre/Leetcode-Main/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
