@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Yash12patre/Leetcode-Main/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Yash12patre/Leetcode-Main/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Yash12patre/Leetcode-Main/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Yash12patre/Leetcode-Main/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash12patre/Leetcode-Main/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
