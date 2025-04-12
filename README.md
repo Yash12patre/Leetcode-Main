@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Yash12patre/Leetcode-Main/tree/master/1585-the-kth-factor-of-n) |
+| [2998-count-symmetric-integers](https://github.com/Yash12patre/Leetcode-Main/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Yash12patre/Leetcode-Main/tree/master/0217-contains-duplicate) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Yash12patre/Leetcode-Main/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
