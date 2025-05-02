@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Yash12patre/Leetcode-Main/tree/master/0231-power-of-two) |
 | [1585-the-kth-factor-of-n](https://github.com/Yash12patre/Leetcode-Main/tree/master/1585-the-kth-factor-of-n) |
 | [2998-count-symmetric-integers](https://github.com/Yash12patre/Leetcode-Main/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
@@ -54,4 +55,12 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Yash12patre/Leetcode-Main/tree/master/2998-count-symmetric-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yash12patre/Leetcode-Main/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Yash12patre/Leetcode-Main/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
