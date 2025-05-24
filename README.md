@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/Yash12patre/Leetcode-Main/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/Yash12patre/Leetcode-Main/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Yash12patre/Leetcode-Main/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yash12patre/Leetcode-Main/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Yash12patre/Leetcode-Main/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash12patre/Leetcode-Main/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yash12patre/Leetcode-Main/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -18,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yash12patre/Leetcode-Main/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Yash12patre/Leetcode-Main/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Yash12patre/Leetcode-Main/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash12patre/Leetcode-Main/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
