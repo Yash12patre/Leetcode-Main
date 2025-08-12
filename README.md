@@ -14,6 +14,7 @@
 | [0485-max-consecutive-ones](https://github.com/Yash12patre/Leetcode-Main/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash12patre/Leetcode-Main/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Yash12patre/Leetcode-Main/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Yash12patre/Leetcode-Main/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,4 +91,12 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yash12patre/Leetcode-Main/tree/master/0144-binary-tree-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Yash12patre/Leetcode-Main/tree/master/3708-zigzag-grid-traversal-with-skip) |
+## Simulation
+|  |
+| ------- |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Yash12patre/Leetcode-Main/tree/master/3708-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
